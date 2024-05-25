@@ -1,0 +1,4 @@
+langchain==0.0.329
+pypdfium2==4.23.1
+python-dotenv==1.0.0
+streamlit==1.27.2
