@@ -15,8 +15,5 @@ Similarity Matching: When you ask a question, the app compares it with the text 
 
 Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
 
-# Detailed Project Report 
-https://drive.google.com/file/d/147s07zYCZIW2eBUS0885lR8go86N_-7K/view?usp=sharing
-
 # License
 The MultiPDF Chat App is released under the https://opensource.org/license/MIT.
